@@ -1,0 +1,9 @@
+.user{
+    text-align: center;
+    background-color:beige;
+    /* margin: 10px; */
+}
+.user td{
+    /* font-size: 30px; */
+    padding: 10px 5px;
+}
